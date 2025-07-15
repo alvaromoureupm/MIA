@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Remove Python cache",
+            "type": "shell",
+            "command": "find . -type d -name '__pycache__' -exec rm -r {} +",
+            "problemMatcher": []
+        }
+    ]
+}

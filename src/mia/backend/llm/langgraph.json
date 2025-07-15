@@ -1,0 +1,11 @@
+{
+    "dockerfile_lines": [],
+    "graphs": {
+      "mia": "./rag_v2.py:graph"
+    },
+    "env": "././.env",
+    "python_version": "3.10.15",
+    "dependencies": [
+      "."
+    ]
+}
